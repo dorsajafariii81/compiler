@@ -1,0 +1,12 @@
+@font-face 
+{
+  font-family: "kamran";
+  src:url("./font/kamran.woff") format("woff"),
+    url("./font/kamran.otf");
+  font-weight: normal;
+  font-style: normal;
+
+}
+body{
+    
+}
