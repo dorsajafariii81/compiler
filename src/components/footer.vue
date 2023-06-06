@@ -1,4 +1,4 @@
-<style scoped>
+﻿<style scoped>
     footer{
         width: 100%;
         padding: 16px 0;
@@ -14,7 +14,7 @@
 <template>
   <footer >
     <p>
-        طراحی شده توسط درسا جعفری
+         طراحی شده توسط درسا جعفری و سارا محمدی یگانه
     </p>
 </footer>
 </template>
